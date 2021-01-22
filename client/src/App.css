@@ -1,0 +1,87 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+.App {
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/1329644/pexels-photo-1329644.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style:unset;
+  font-weight:1000;
+}
+
+.App-header {
+  align-items: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  justify-content: center;
+  color: white;
+}
+
+.Trans{
+  width: 25%;
+  margin-left: 40%;
+  margin-top:5%;
+  font-family:Droid;
+  font-weight:1000;
+}
+
+.content_home{
+  margin-top:10%;
+  font-family:Droid;
+  font-size:40px;
+  font-variant-caps:titling-caps;
+  background-color:ivory;
+  background-blend-mode: screen;
+  color: black;
+}
+
+.content_vieaall{
+  font-family:Droid;
+  font-size:40px;
+  font-variant-caps:titling-caps;
+  background-color:ivory;
+  background-blend-mode: screen;
+  color: black;
+}
+
+.content_viewone{
+  font-family:Droid;
+  font-size:40px;
+  font-variant-caps:titling-caps;
+  background-color:ivory;
+  background-blend-mode: screen;
+  color: black;
+}
+
+.content_amttrans{
+  font-family:Droid;
+  font-size:40px;
+  font-variant-caps:titling-caps;
+  background-color:ivory;
+  background-blend-mode: screen;
+  color: black;
+}
+
+.content_histroy{
+  font-family:Droid;
+  font-size:40px;
+  font-variant-caps:titling-caps;
+  background-color:ivory;
+  background-blend-mode: screen;
+  color: black;
+}
+
+.content_balance{
+  font-family:Droid;
+  font-size:40px;
+  font-variant-caps:titling-caps;
+  background-color:ivory;
+  background-blend-mode: screen;
+  color: black;
+}
